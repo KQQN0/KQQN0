@@ -66,13 +66,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KQQN0/KQQN0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-### 📊 Real-Time Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KQQN0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KQQN0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="Top Languages" />
-</p>
-
 <br/>
 
 ### 🎯 KAAN YILMAZ

@@ -96,14 +96,15 @@ Engineered custom game mechanics, configured RemoteEvents, and implemented stric
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KQQN0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" height="165"/></a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KQQN0&theme=tokyonight&hide_border=true&background=0a0a0a" alt="GitHub Streak" height="165"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KQQN0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
-
----
 
 ### 🎮 My Down Time
 

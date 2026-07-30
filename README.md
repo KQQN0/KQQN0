@@ -3,10 +3,11 @@
 </div>
 
 <br/>
-
 <!-- GITHUB KUPALARI (TROPHIES) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KQQN0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KQQN0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
 </div>
 
 <br/>

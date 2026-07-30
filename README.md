@@ -72,3 +72,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KQQN0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KQQN0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="Top Languages" />
 </p>
+
+<br/>
+
+### 🎯 KAAN YILMAZ
+<div align="center">
+  <img src="https://readme-quotes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Developer Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Keep%20Coding,%20Keep%20Debugging&fontSize=20&fontColor=0a0a0a" alt="Wave Footer" />
+</div>

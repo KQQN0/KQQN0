@@ -3,11 +3,10 @@
 </div>
 
 <br/>
-<!-- GITHUB KUPALARI (TROPHIES) -->
+
+<!-- GITHUB STREAK KARTI (Kupalar Yerine %100 Çalışan Sistem) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KQQN0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KQQN0&theme=tokyonight&hide_border=true&background=0a0a0a" alt="GitHub Streak" />
 </div>
 
 <br/>

@@ -96,7 +96,7 @@ Engineered custom game mechanics, configured RemoteEvents, and implemented stric
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KQQN0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=KQQN0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" height="165"/></a>
 </div>
 
 <div align="center">
